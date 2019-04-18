@@ -35,9 +35,14 @@ The following is the list of the problems solved. Each problem identifier is spe
 * ✗ [C. Cryptopangrams][qual3] (`cryptopangrams`)
 * ✓ [D. Dat Bae][qual4] (`dat-bae`)
 
+### Round 1
+
+* ✓ [B. Golf Gophers][round1a2] (`golf-gophers`)
+
 [1]: https://codingcompetitions.withgoogle.com/codejam
 [2]: https://code.google.com/codejam/resources/quickstart-guide#dcj
 [qual1]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/0000000000088231
 [qual2]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/00000000000881da
 [qual3]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/000000000008830b
 [qual4]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/00000000000881de
+[round1a2]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104f1a
