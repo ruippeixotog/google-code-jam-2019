@@ -1,35 +1,19 @@
-#include <algorithm>
 #include <cstdio>
-#include <cstring>
-#include <iostream>
-#include <map>
-#include <queue>
-#include <set>
-#include <string>
-#include <utility>
-#include <vector>
 
-#define MAXN 2000
-#define INF 0x3f3f3f3f
+#define MAXN 50000
 
-using namespace std;
-
-typedef long long ll;
-typedef long double ld;
-
-int x[MAXN], y[MAXN];
+char p[2 * MAXN];
 
 int main() {
   int t; scanf("%d\n", &t);
   for(int tc = 1; tc <= t; tc++) {
     int n; scanf("%d\n", &n);
-    string p; cin >> p;
+    scanf("%s\n", p);
 
-    string p2;
-    for(char ch : p) {
-      p2.push_back(ch == 'S' ? 'E' : 'S');
+    for(int i = 0; i < 2 * n - 2; i++) {
+      p[i] = p[i] == 'S' ? 'E' : 'S';
     }
-    printf("Case #%d: %s\n", tc, p2.c_str());
+    printf("Case #%d: %s\n", tc, p);
   }
   return 0;
 }
