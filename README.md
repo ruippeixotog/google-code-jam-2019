@@ -38,6 +38,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 ### Round 1
 
 * ✓ [B. Golf Gophers][round1a2] (`golf-gophers`)
+* ✓ [B. Alien Rhyme][round1a3] (`alien-rhyme`)
 
 [1]: https://codingcompetitions.withgoogle.com/codejam
 [2]: https://code.google.com/codejam/resources/quickstart-guide#dcj
