@@ -35,10 +35,15 @@ The following is the list of the problems solved. Each problem identifier is spe
 * ✗ [C. Cryptopangrams][qual3] (`cryptopangrams`)
 * ✓ [D. Dat Bae][qual4] (`dat-bae`)
 
-### Round 1
+### Round 1A
 
 * ✓ [B. Golf Gophers][round1a2] (`golf-gophers`)
-* ✓ [B. Alien Rhyme][round1a3] (`alien-rhyme`)
+* ✓ [C. Alien Rhyme][round1a3] (`alien-rhyme`)
+
+### Round 1B
+
+* ✓ [A. Manhattan Crepe Cart][round1b1] (`manhattan-crepe-cart`)
+* ✗ [C. Fair Fight][round1b3] (`fair-fight`)
 
 [1]: https://codingcompetitions.withgoogle.com/codejam
 [2]: https://code.google.com/codejam/resources/quickstart-guide#dcj
@@ -47,3 +52,6 @@ The following is the list of the problems solved. Each problem identifier is spe
 [qual3]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/000000000008830b
 [qual4]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/00000000000881de
 [round1a2]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104f1a
+[round1a3]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104e05
+[round1b1]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/000000000012295c
+[round1b3]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/0000000000122838
