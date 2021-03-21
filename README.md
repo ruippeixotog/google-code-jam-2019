@@ -32,7 +32,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 * ✓ [A. Foregone Solution][qual1] (`foregone-solution`)
 * ✓ [B. You Can Go Your Own Way][qual2] (`you-can-go-your-own-way`)
-* ✗ [C. Cryptopangrams][qual3] (`cryptopangrams`)
+* ✓ [C. Cryptopangrams][qual3] (`cryptopangrams`)
 * ✓ [D. Dat Bae][qual4] (`dat-bae`)
 
 ### Round 1A
