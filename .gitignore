@@ -4,6 +4,7 @@
 !Makefile
 
 .idea
+.vscode
 CmakeLists.txt
 cmake-build-debug
 *.in
