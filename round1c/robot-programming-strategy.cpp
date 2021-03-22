@@ -2,6 +2,7 @@
 #include <cstring>
 #include <iostream>
 #include <map>
+#include <set>
 #include <string>
 
 #define MAXA 255
@@ -24,18 +25,18 @@ int main() {
     
     string res;
     for(int i = 0; i <= MAXA; i++) {
-      map<char, int> hist;
+      set<char> seen;
       for(int j = 0; j < a; j++) {
-        if(!done[j]) hist[c[j][i % c[j].size()]]++;
+        if(!done[j]) seen.insert(c[j][i % c[j].size()]);
       }
 
-      if(hist.size() == 1) {
-        res.push_back(winner[hist.begin()->first]);
+      if(seen.size() == 1) {
+        res.push_back(winner[*seen.begin()]);
         break;
 
-      } else if(hist.size() == 2) {
-        char next = winner[hist.begin()->first] == hist.rbegin()->first ?
-          hist.rbegin()->first : hist.begin()->first;
+      } else if(seen.size() == 2) {
+        char next = winner[*seen.begin()] == *seen.rbegin() ?
+          *seen.rbegin() : *seen.begin();
         res.push_back(next);
 
         for(int j = 0; j < a; j++) {
