@@ -11,4 +11,5 @@ cmake-build-debug
 *.out
 *.exe
 distrib-*/*.h
+interactive_runner.py
 testing_tool.py
