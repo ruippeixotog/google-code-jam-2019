@@ -45,6 +45,10 @@ The following is the list of the problems solved. Each problem identifier is spe
 * ✓ [A. Manhattan Crepe Cart][round1b1] (`manhattan-crepe-cart`)
 * ✗ [C. Fair Fight][round1b3] (`fair-fight`)
 
+### Round 1C
+
+* ✓ [A. Robot Programming Strategy][round1c1] (`robot-programming-strategy`)
+
 [1]: https://codingcompetitions.withgoogle.com/codejam
 [2]: https://code.google.com/codejam/resources/quickstart-guide#dcj
 [qual1]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/0000000000088231
@@ -55,3 +59,4 @@ The following is the list of the problems solved. Each problem identifier is spe
 [round1a3]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104e05
 [round1b1]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/000000000012295c
 [round1b3]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/0000000000122838
+[round1c1]: https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134c90
