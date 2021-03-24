@@ -38,6 +38,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 ### Round 1B
 
 * ✓ [A. Manhattan Crepe Cart][round1b1] (`manhattan-crepe-cart`)
+* ✓ [B. Draupnir][round1b2] (`draupnir`)
 * ✗ [C. Fair Fight][round1b3] (`fair-fight`)
 
 ### Round 1C
@@ -54,6 +55,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 [round1a2]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104f1a
 [round1a3]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104e05
 [round1b1]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/000000000012295c
+[round1b2]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/0000000000122837
 [round1b3]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/0000000000122838
 [round1c1]: https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134c90
 [round1c2]: https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134e91
